@@ -1,4 +1,4 @@
-# SistemaGestaoCampeonato 🏆 ⚽
+# Sistema Gestão Campeonato 🏆 ⚽
 
  projeto desenvolvido para a disciplina de **Programção 2** na **UFRPE - Unidade Acadêmcia de Belo Jardim**
 
