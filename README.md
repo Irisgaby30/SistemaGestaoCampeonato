@@ -26,7 +26,7 @@
 ### Classe: Time
 * **Atributos:**
     * `String nome`
-    * `List<Jogador> jogadores`
+    * `ArrayList<Jogador> jogadores`
     * `int pontos`
     * `int vitorias, empates, derrotas`
 * **Métodos:**
@@ -46,8 +46,8 @@
 ### Classe: Campeonato
 * **Atributos:**
     * `String nome`
-    * `List<Time> timesParticipantes`
-    * `List<Partida> tabelaJogos`
+    * `ArrayList<Time> timesParticipantes`
+    * `ArrayList<Partida> tabelaJogos`
 * **Métodos:**
     * `gerarClassificacao()`: Ordena os times por pontos.
     * `listarArtilheiro()`: Identifica o jogador com mais gols.
