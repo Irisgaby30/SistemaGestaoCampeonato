@@ -1,3 +1,4 @@
+package SistemaGestaoCampeonato;
 public class Jogador {
     private String nome;
     private String posicao;

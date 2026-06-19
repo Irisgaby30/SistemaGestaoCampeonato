@@ -1,3 +1,4 @@
+package SistemaGestaoCampeonato;
 import java.util.ArrayList;
 
 public class Campeonato {

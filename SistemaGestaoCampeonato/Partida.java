@@ -1,3 +1,4 @@
+package SistemaGestaoCampeonato;
 public class Partida {
     private Time mandante;
     private Time visitante;
