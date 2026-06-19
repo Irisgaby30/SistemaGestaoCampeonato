@@ -1,11 +1,6 @@
 import java.util.ArrayList;
 import java.util.Scanner;
 
-import modelo.Campeonato;
-import modelo.Jogador;
-import modelo.Partida;
-import modelo.Time;
-
 public class main {
     private static ArrayList<Time> listaTimes = new ArrayList<>();
     private static Campeonato campeonatoAtivo = new Campeonato("Brasileirao Feminino");
